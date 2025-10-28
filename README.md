@@ -2,6 +2,9 @@
 
 A simple **single-page CV** built using **semantic HTML** only.  
 
+## Project URL
+https://roadmap.sh/projects/single-page-cv
+
 ## 🛠️ How to Run the Project
 **Clone or download** this repository. Run the CV locally by simply opening the index.html file in your browser: double-click index.html or open it via terminal:
 
